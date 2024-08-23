@@ -24,6 +24,12 @@
 		"description": "Endorse an Indy DID"
 	},
 	{
+		"id": "holder-reuse-connection",
+		"name": "Holder Reuse Connection",
+		"path": "examples/holder-reuse-connection",
+		"description": "Issue a W3C credential"
+	},
+	{
 		"id": "import-did",
 		"name": "Import Did",
 		"path": "examples/import-did",
@@ -33,6 +39,30 @@
 		"id": "issue-bbs-credentials",
 		"name": "Issue Bbs Credentials",
 		"path": "examples/issue-bbs-credentials",
+		"description": "Issue a W3C credential using BBS+ signatures"
+	},
+	{
+		"id": "issue-credentials",
+		"name": "Issue Credentials",
+		"path": "examples/issue-credentials",
+		"description": "Issue a W3C credential"
+	},
+	{
+		"id": "issue-creds",
+		"name": "Issue Creds",
+		"path": "examples/issue-creds",
+		"description": "Issue a W3C credential"
+	},
+	{
+		"id": "mediation-test",
+		"name": "Mediation Test",
+		"path": "examples/mediation-test",
+		"description": "Issue a W3C credential"
+	},
+	{
+		"id": "pex-mutiple-credentials",
+		"name": "Pex Mutiple Credentials",
+		"path": "examples/pex-mutiple-credentials",
 		"description": "Issue a W3C credential using BBS+ signatures"
 	}
 ]
