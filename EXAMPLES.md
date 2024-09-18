@@ -11,7 +11,4 @@
 - [Holder Reuse Connection](./examples/holder-reuse-connection) (`holder-reuse-connection`) - Issue a W3C credential
 - [Import Did](./examples/import-did) (`import-did`) - Import an already existing did, optionally resolving it and importing the associated private keys into the wallet.
 - [Issue Bbs Credentials](./examples/issue-bbs-credentials) (`issue-bbs-credentials`) - Issue a W3C credential using BBS+ signatures
-- [Issue Credentials](./examples/issue-credentials) (`issue-credentials`) - Issue a W3C credential
-- [Issue Creds](./examples/issue-creds) (`issue-creds`) - Issue a W3C credential
-- [Mediation Test](./examples/mediation-test) (`mediation-test`) - Issue a W3C credential
-- [Pex Mutiple Credentials](./examples/pex-mutiple-credentials) (`pex-mutiple-credentials`) - Issue a W3C credential using BBS+ signatures
+- [Proof Test](./examples/proof-test) (`proof-test`) - Issue a W3C credential using BBS+ signatures
