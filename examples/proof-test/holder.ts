@@ -25,7 +25,7 @@ export const holder = new Agent({
 			key: "holder-agent-key",
 		},
 		logger: new ConsoleLogger(LogLevel.debug),
-		endpoints: ["http://localhost:6007/didcomm"],
+		endpoints: ["http://:6007/didcomm"],
 	},
 	modules: {
 		// Storage Module
