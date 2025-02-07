@@ -9,3 +9,4 @@
 - [Endorse Indy Did](./examples/endorse-indy-did) (`endorse-indy-did`) - Endorse an Indy DID
 - [Import Did](./examples/import-did) (`import-did`) - Import an already existing did, optionally resolving it and importing the associated private keys into the wallet.
 - [Issue BBS Credentials](./examples/issue-bbs-credentials) (`issue-bbs-credentials`) - Issue a W3C credential using BBS+ signatures
+- [W C Revocation](./examples/w3c-revocation) (`w3c-revocation`) - Issue a W3C revocable credential

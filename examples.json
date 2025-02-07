@@ -34,5 +34,11 @@
 		"name": "Issue Bbs Credentials",
 		"path": "examples/issue-bbs-credentials",
 		"description": "Issue a W3C credential using BBS+ signatures"
+	},
+	{
+		"id": "w3c-revocation",
+		"name": "W C Revocation",
+		"path": "examples/w3c-revocation",
+		"description": "Issue a W3C revocable credential"
 	}
 ]
