@@ -85,7 +85,7 @@ async function app() {
   // Create OOB Connection
   const oobConnection = await holder.oob.createInvitation();
   const invUrl = oobConnection.outOfBandInvitation.toUrl({
-    domain: "http://192.168.1.125:6007",
+    domain: "http://localhost:6007",
   });
 
   // Connection

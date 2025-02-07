@@ -24,7 +24,7 @@ export const issuer = new Agent({
       id: "issuer-agent-id",
       key: "issuer-agent-key",
     },
-    endpoints: ["http://192.168.1.125:6006/didcomm"],
+    endpoints: ["http://localhost:6006/didcomm"],
     logger: new ConsoleLogger(LogLevel.trace),
   },
   modules: {

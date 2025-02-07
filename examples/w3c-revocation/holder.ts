@@ -31,7 +31,7 @@ export const holder = new Agent({
     },
     logger: new ConsoleLogger(LogLevel.trace),
     didCommMimeType: DidCommMimeType.V1,
-    endpoints: ["http://192.168.1.125:6007/didcomm"],
+    endpoints: ["http://localhost:6007/didcomm"],
   },
   modules: {
     // Storage Module
